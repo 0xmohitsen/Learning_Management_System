@@ -2,6 +2,13 @@
 
 Learning Management System (LMS) is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) project designed to provide a comprehensive platform for managing courses and user profiles.
 
+## Project Video
+
+<video controls width="100%">
+  <source src="https://youtu.be/zpuG2CcLTDg" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Features
 
 - **Authentication and Authorization**: Secure user authentication and authorization with role-based access control.
