@@ -4,10 +4,7 @@ Learning Management System (LMS) is a full-stack MERN (MongoDB, Express.js, Reac
 
 ## Project Video
 
-<video controls width="100%">
-  <source src="https://youtu.be/zpuG2CcLTDg" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/Mohitsen11/Learning_Management_System/assets/114509045/3531f95e-156e-4eae-8ec7-3d3809c3e109
 
 ## Features
 
