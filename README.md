@@ -26,6 +26,21 @@ https://github.com/Mohitsen11/Learning_Management_System/assets/114509045/3531f9
 - **Payment Integration**: Razorpay
 - **Image Storage**: Cloudinary
 
+## Admin Login Credentials  
+By default, the LMS comes with an admin account. Use the following credentials to log in:  
+
+**Email-1:** `mohitsen543@gmail.com`  
+**Password-1:** `Rohit@12`   
+
+---
+
+## User Login Credentials  
+By default, the LMS comes with a user account. Use the following credentials to log in:  
+
+**Email-1:** `mohitsen0103@gmail.com`  
+**Password-1:** `Rohit@12`  
+
+
 ## Getting Started
 
 To get started with the Learning Management System (LMS), follow these steps:
